@@ -1,0 +1,11 @@
+[project]
+name = "brain-games"
+version = "0.1.0"
+description = "Brain Games Project"
+
+[tool.uv]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.9.10",
+]
